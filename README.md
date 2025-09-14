@@ -1,5 +1,7 @@
 
 # 🌍 Power BI Sales Dashboard
+![Sales final Dashboard1](https://github.com/user-attachments/assets/e95d9f49-ef11-42ff-8b63-1c9f10d7680b)
+
 
 ## 📊 Project Overview
 This **Power BI Sales Dashboard** provides an interactive, dynamic view of global sales performance across multiple currencies. The dashboard enables users to analyze sales trends, visualize product sales worldwide, and compare sales across different time periods and currencies.
